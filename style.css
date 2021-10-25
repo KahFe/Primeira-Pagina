@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Zilla+Slab:wght@300&display=swap');
+
+*{
+    background-color: rgb(239, 212, 245);
+}
+
+h1, h2{
+    font-family: 'Zilla Slab', serif;
+}
+
+h1{
+    color: #8f1c99
+}
+
+h2{
+    color: #aa155b;
+}
+
+p{
+    color: rgb(43, 41, 41);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul li a{
+    color: #bf21ce;
+    text-decoration-line: none;
+}
+
+ul li a:hover{
+    color: rgb(113, 30, 190);
+}
+
+ul li a:visited{
+    color: rgb(113, 30, 190);;
+}
